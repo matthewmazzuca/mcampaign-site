@@ -1218,6 +1218,13 @@ a.overlay-close:hover {
 	background: #42454a;
 }
 
+.hero-form textarea {
+	margin-bottom: 24px;
+	padding: 20px;
+	width: 100%;
+	background: #42454a;
+
+}
 .contact-form .submit-btn {
 	min-width: 170px;
 	height: 50px;
@@ -1974,7 +1981,8 @@ a.menu-toggle span {
 	border: none;
 }
 
-.register-form .hero-input {
+.register-form .hero-input,
+.hero-input textarea {
 	margin-bottom: 30px;
 	padding: 0 20px;
 	width: 100%;
