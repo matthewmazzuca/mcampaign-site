@@ -1,6 +1,6 @@
 <?php
-$subject = 'Register New Account on Urip Landing Page'; // Subject of your email
-$to = ‘your@address.com’;  //Recipient's or Your E-mail
+$subject = 'Register New Account on Toronto Home Renovations'; // Subject of your email
+$to = ‘matt@protractr.com’;  //Recipient's or Your E-mail
 
 $headers  = 'MIME-Version: 1.0' . "\r\n";
 $headers .= "From: " . $_REQUEST['heroEmail'] . "\r\n"; // Sender's E-mail
