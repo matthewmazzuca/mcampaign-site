@@ -189,7 +189,7 @@ $(document).ready(function(){
 	====================================*/
 	$('.the-subscribe-form').ajaxChimp({
 		callback: mailchimpCallback,
-	    url: 'http://protractr.us11.list-manage.com/subscribe/post?u=6ea7e763024e0a0397aa65344&amp;id=7fb2118948'
+	    url: 'http://protractr.us11.list-manage.com/subscribe/post?u=6ea7e763024e0a0397aa65344&amp;id=7f4ad189ed'
 	    // Replace the URL above with your mailchimp URL (put your URL inside '').
 	});
 
