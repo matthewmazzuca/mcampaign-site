@@ -189,7 +189,7 @@ $(document).ready(function(){
 	====================================*/
 	$('.the-subscribe-form').ajaxChimp({
 		callback: mailchimpCallback,
-	    url: 'http://worksofwisnu.us6.list-manage.com/subscribe/post?u=b57b4e6ae38c92ac22d92a234&amp;id=17754c49aa'
+	    url: 'http://protractr.us11.list-manage.com/subscribe/post?u=6ea7e763024e0a0397aa65344&amp;id=7fb2118948'
 	    // Replace the URL above with your mailchimp URL (put your URL inside '').
 	});
 
